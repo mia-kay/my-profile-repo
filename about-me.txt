@@ -1,0 +1,3 @@
+My name is Mia
+I'm learning git and github
+I understand how to push, pull, and clone repositories
